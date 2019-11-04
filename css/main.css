@@ -7,26 +7,26 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   background-color: #f2f2f2;
   line-height: 1.5;
   margin: 0;
 }
 
 h1 {
-  font-family: 'Open Sans', bold;
+  font-family: "Open Sans", bold;
   text-align: center;
   display: inline;
   font-size: 2rem;
 }
 
 .author {
-  font-family: 'Open Sans', italic;
+  font-family: "Open Sans", italic;
   font-size: .875rem;
 }
 
 .summary {
-  font-family: 'Open Sans';
+  font-family: "Open Sans";
   font-size: 1rem;
 }
 
