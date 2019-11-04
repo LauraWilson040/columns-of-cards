@@ -11,6 +11,12 @@ body {
   background-color: #f2f2f2;
 }
 
+h1 {
+  font-family: 'Open Sans', bold;
+  text-align: center;
+  display: inline;
+}
+
 dt {
 
 }
@@ -20,9 +26,9 @@ dd {
 }
 
 .author {
-
+  font-family: 'Open Sans', italic;
 }
 
 .summary {
-
+  font-family: 'Open Sans', regular;
 }
