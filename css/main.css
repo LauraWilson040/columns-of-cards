@@ -1,0 +1,27 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #f2f2f2;
+}
+
+dt {
+
+}
+
+dd {
+
+}
+
+.author {
+
+}
+
+.summary {
+
+}
